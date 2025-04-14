@@ -5,5 +5,3 @@ numpy
 tensorflow
 keras
 Pillow
-cv2
-av
