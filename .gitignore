@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+emotion_model_4classes.h5
