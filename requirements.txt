@@ -1,6 +1,8 @@
 streamlit
 streamlit-webrtc
-opencv-python
+opencv-python-headless==4.9.0.80
+# Avoid installing full opencv-python which causes cloud issues
+opencv-python!=4.9.0.80
 numpy
 tensorflow
 keras
