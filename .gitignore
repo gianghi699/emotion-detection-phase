@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .DS_Store
 emotion_model_4classes.h5
+fer2013.csv
